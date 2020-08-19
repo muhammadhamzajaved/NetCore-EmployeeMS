@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/EmployeeMS/.vs/EmployeeMS
+/EmployeeMS/EmployeeMS/bin/Debug/netcoreapp3.1
+/EmployeeMS/EmployeeMS/obj
